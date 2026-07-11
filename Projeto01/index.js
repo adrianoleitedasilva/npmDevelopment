@@ -11,3 +11,6 @@ console.log(arr3);
 
 // Moment
 console.log(moment().format());
+console.log(moment().format("D/M/Y"));
+console.log(moment().format("D/M/Y, h:mm:ss"));
+console.log(moment().format("D/M/Y, h:mm:ss a"));
