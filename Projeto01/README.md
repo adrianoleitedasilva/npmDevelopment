@@ -49,3 +49,9 @@ npm update
 ```shell
 npm install moment
 ```
+
+### Instalando a dependência em dev mode
+
+```shell
+npm install debug --save-dev
+```
