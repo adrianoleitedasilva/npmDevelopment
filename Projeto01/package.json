@@ -1,0 +1,15 @@
+{
+  "name": "projeto01",
+  "version": "1.0.0",
+  "description": "Primeiro projeto",
+  "license": "ISC",
+  "author": "adrianoleitedasilva",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "lodash": "^4.18.1"
+  }
+}
